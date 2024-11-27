@@ -22,9 +22,13 @@ Tools and Libraries
 Libraries:-
 
 1.pandas: For data manipulation and cleaning.
+
 2.numpy: For numerical operations.
+
 3.NLTK & spaCy: For text preprocessing and NLP tasks.
+
 4.scikit-learn: For implementing machine learning models.
+
 5.matplotlib & seaborn: For data visualization.
 
 Steps Performed:-
